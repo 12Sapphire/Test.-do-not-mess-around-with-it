@@ -1,5 +1,4 @@
 remote_theme: pages-themes/architect@v0.2.0
-plugins:
 
 title: [Hello, World!]
 description: [This is a portfolio]
