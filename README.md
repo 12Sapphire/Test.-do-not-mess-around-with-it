@@ -1,1 +1,9 @@
-Hello
+---
+layout: home
+title: My Awesome Site
+---
+
+# Welcome to my site!
+
+This is my new website. Yay!
+
